@@ -22,6 +22,3 @@ fs.readFile('index.html', (err, data) => {
     });
 
 });
-
-
-
